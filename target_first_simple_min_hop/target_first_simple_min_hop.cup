@@ -1,9 +1,9 @@
 CupCarbon v. IoT 5.1.6 (Parthenope)
 ----------------
-name:demo_simple_min_hop
-zoom:1
-centerposition_la:53.47750657297145
-centerposition_lo:-2.246953547000885
+name:target_first_simple_min_hop
+zoom:0
+centerposition_la:53.477546480087014
+centerposition_lo:-2.2472351789474487
 map:0
 display_details:true
 draw_radio_links:true
